@@ -1,2 +1,1 @@
-# homework6-2021
-Homework6 2021 SI339
+# hw6-2021
